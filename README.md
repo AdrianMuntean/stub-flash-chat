@@ -11,7 +11,7 @@ We’re going to build a modern messaging app where users can sign up and log in
 ![image](https://user-images.githubusercontent.com/12469787/75607598-8274a980-5b01-11ea-9fc9-e8d9c033223e.png)
 
 ## Finished project
-In case you are stuck you can find the final app here
+In case you are stuck you can find the final app [here](https://github.com/AdrianMuntean/flash-chat)
 
 
 Special thanks to [www.appbrewery.co](https://www.appbrewery.co/) from where the course was inspired. 
